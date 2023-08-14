@@ -1,0 +1,35 @@
+#map {
+	height: 100% !important;
+}
+#imgHome::part(image) {
+	display: block;
+	width: 300px;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+#h3Gastos {
+	color: #eb445a;
+}
+#h3Ingresos {
+	color: #2dd36f;
+}
+.alert-title {
+	text-align: center;
+}
+.alert-sub-title {
+	text-align: center;
+}
+.alert-message {
+	text-align: center;
+}
+.alert-button.alert-button-confirm {
+	width: 100%;
+}
+.alert-button.sc-ion-alert-md {
+	background-color: #2dd36f;
+	color: white;
+	margin: 0;
+}
+.alert-button-inner.sc-ion-alert-md {
+	justify-content: center;
+}
